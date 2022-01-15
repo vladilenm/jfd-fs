@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed471815",
+        "name": "Джон Дориан",
+        "email": "Jony7351@tw.com",
+        "password": "b2C!9bmE",
+        "profession": "67rdca3eeb7f6fgeed471818",
+        "qualities": [
+            "67rdca3eeb7f6fgeed471198",
+            "67rdca3eeb7f6fgeed471102",
+            "67rdca3eeb7f6fgeed471100"
+        ],
+        "completedMeetings": 36,
+        "rate": 2.5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471816",
+        "name": "Кокс",
+        "email": "white4571@twipet.com",
+        "password": "NSF-kQ7p",
+        "profession": "67rdca3eeb7f6fgeed471818",
+        "qualities": [
+            "67rdca3eeb7f6fgeed4711012",
+            "67rdca3eeb7f6fgeed471102",
+            "67rdca3eeb7f6fgeed471101"
+        ],
+        "completedMeetings": 15,
+        "rate": 2.5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471817",
+        "name": "Боб Келсо",
+        "email": "bob007@tw.com",
+        "password": "*cr6Lydn",
+        "profession": "67rdca3eeb7f6fgeed471818",
+        "qualities": ["67rdca3eeb7f6fgeed4711012"],
+        "completedMeetings": 247,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471818",
+        "name": "Рэйчел Грин",
+        "email": "green7311@fam.biz",
+        "password": "*V7&Ks6D",
+        "profession": "67rdca3eeb7f6fgeed471820",
+        "qualities": ["67rdca3eeb7f6fgeed471102"],
+        "completedMeetings": 148,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471819",
+        "name": "Шелдон Купер",
+        "email": "mindgames6878@phis.tech",
+        "password": "$8^M_LfY",
+        "profession": "67rdca3eeb7f6fgeed471814",
+        "qualities": ["67rdca3eeb7f6fgeed471100", "67rdca3eeb7f6fgeed471198"],
+        "completedMeetings": 37,
+        "rate": 4.6
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471820",
+        "name": "Леонард Хофстедтер",
+        "email": "mindes000@phis.tech",
+        "password": "75gHX^Tj",
+        "profession": "67rdca3eeb7f6fgeed471814",
+        "qualities": ["67rdca3eeb7f6fgeed471100", "67rdca3eeb7f6fgeed471102"],
+        "completedMeetings": 147,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471821",
+        "name": "Говард Воловиц",
+        "email": "gov1903@phis.tech",
+        "password": "k2+HWHq^",
+        "profession": "67rdca3eeb7f6fgeed471822",
+        "qualities": ["67rdca3eeb7f6fgeed471100", "67rdca3eeb7f6fgeed471198"],
+        "completedMeetings": 72,
+        "rate": 3.5,
+        "bookmark": false
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471822",
+        "name": "Никола Тесла",
+        "email": "electro@underground.tech",
+        "password": "K2vVmM^Z",
+        "profession": "67rdca3eeb7f6fgeed471822",
+        "qualities": ["67rdca3eeb7f6fgeed471102"],
+        "completedMeetings": 72,
+        "rate": 5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471823",
+        "name": "Моника Геллер",
+        "email": "mono@super.com",
+        "password": "Zu+9*V$E",
+        "profession": "67rdca3eeb7f6fgeed471829",
+        "qualities": ["67rdca3eeb7f6fgeed471100", "67rdca3eeb7f6fgeed471102"],
+        "completedMeetings": 17,
+        "rate": 4.5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471824",
+        "name": "Рататуй",
+        "email": "ratatatata@underground.com",
+        "password": "RvJ-U2EC",
+        "profession": "67rdca3eeb7f6fgeed471829",
+        "qualities": ["67rdca3eeb7f6fgeed471102", "67rdca3eeb7f6fgeed4711012"],
+        "completedMeetings": 17,
+        "rate": 4.5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181f",
+        "name": "Джоуи Триббиани",
+        "email": "joe@trib.com",
+        "password": "z&_r7VA8",
+        "profession": "67rdca3eeb7f6fgeed471824",
+        "qualities": ["67rdca3eeb7f6fgeed471102", "67rdca3eeb7f6fgeed471100"],
+        "completedMeetings": 434,
+        "rate": 3.5
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181r",
+        "name": "Брэд Питт",
+        "email": "superstar@star.com",
+        "password": "89UhL^$d",
+        "profession": "67rdca3eeb7f6fgeed471824",
+        "qualities": ["67rdca3eeb7f6fgeed471102"],
+        "completedMeetings": 434,
+        "rate": 5
+    }
+]
